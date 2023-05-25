@@ -1,0 +1,10 @@
+ Bug_report
+   Id:1
+   Environment:Iphone 13 Pro Max Ios 16.1.1
+   Precondition:
+   Title:
+   Severity:Critical
+   STR:
+   Actual Result:
+   Expected Result:
+   Attachments: 
